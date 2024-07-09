@@ -1,0 +1,308 @@
+[
+  {
+    "keyId": "开始",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 2,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "火",
+    "isSpawnNode": 1,
+    "keyInteractKey": "水",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "5",
+    "keyParaId": 4,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "水",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 3,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "果篮",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 6,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "石膏",
+    "isSpawnNode": 1,
+    "keyInteractKey": "锤子",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 51,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "贺卡",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 7,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "苹果",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 8,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "护士站",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 9,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "血液检验科",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 11,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "空量杯",
+    "isSpawnNode": 1,
+    "keyInteractKey": "血袋",
+    "keyInteractedKeyId": "半血量杯",
+    "keyInteractParaId": "101",
+    "keyParaId": 102,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "血袋",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 10,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "空采血筒",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 103,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "满采血筒",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 104,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "半血量杯",
+    "isSpawnNode": 1,
+    "keyInteractKey": "满采血筒",
+    "keyInteractedKeyId": "满血量杯",
+    "keyInteractParaId": "112",
+    "keyParaId": -1,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "满血量杯",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": -1,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "猪",
+    "isSpawnNode": 1,
+    "keyInteractKey": "苹果",
+    "keyInteractedKeyId": "温顺的猪",
+    "keyInteractParaId": "111",
+    "keyParaId": 113,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "温顺的猪",
+    "isSpawnNode": 1,
+    "keyInteractKey": "空采血筒",
+    "keyInteractedKeyId": "干瘪的猪",
+    "keyInteractParaId": "12",
+    "keyParaId": -1,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "干瘪的猪",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": -1,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "验血机",
+    "isSpawnNode": 1,
+    "keyInteractKey": "满血量杯",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "121",
+    "keyParaId": 122,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "眼科室",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 13,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "验光仪器",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 14,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "开始验光",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 15,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "什么",
+    "isSpawnNode": 1,
+    "keyInteractKey": "人,干瘪的猪",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "16,17",
+    "keyParaId": 18,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "人",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": -1,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "再来一次",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 23,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "听清",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 20,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "眼药水",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 21,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "耳科室",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 22,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "三",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 24,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "四",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 25,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "体检报告",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 26,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "104573",
+    "isSpawnNode": 1,
+    "keyInteractKey": "104572",
+    "keyInteractedKeyId": "104572",
+    "keyInteractParaId": "27",
+    "keyParaId": -1,
+    "isDestroyThen": 0
+  },
+  {
+    "keyId": "104572",
+    "isSpawnNode": 1,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": -1,
+    "isDestroyThen": 1
+  },
+  {
+    "keyId": "播放音频",
+    "isSpawnNode": 0,
+    "keyInteractKey": "",
+    "keyInteractedKeyId": "",
+    "keyInteractParaId": "-1",
+    "keyParaId": 23,
+    "isDestroyThen": 1
+  }
+]

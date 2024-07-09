@@ -1,0 +1,254 @@
+[
+  {
+    "paraId": 0,
+    "paraContent": "编号104573（开始）",
+    "paraAudioClip": "电脑开机",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 2,
+    "paraContent": "操作无效\n检测到无效输入\n权限加载完成\n现在你可以点击、移动高亮字符\n请点击高亮字符（水）",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 3,
+    "paraContent": "请点击高亮字符（火）",
+    "paraAudioClip": "滴水",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 4,
+    "paraContent": "很好，现在你将高亮字符成功归纳到右侧笔记中\n现在请将字符（水）移动到字符（火）上",
+    "paraAudioClip": "火",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 5,
+    "paraContent": "系统提示：火焰被成功浇灭了\n请继续进行测试\n*系统声音 嘀嘀嘀\n                \n              \n                 \n你苏醒于一家医院中,\n身上穿着病服,\n你的床头摆着一个（果篮）",
+    "paraAudioClip": "熄灭火",
+    "paraBGMChange": "turning_test",
+    "gameState": ""
+  },
+  {
+    "paraId": 51,
+    "paraContent": "凝固了很久的熟石膏，包裹着你受伤的脚踝",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 6,
+    "paraContent": "果篮里有一张（贺卡）和一个（苹果）",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 7,
+    "paraContent": "贺卡上写着：\n      听医生电话说明天做完体检后你就可以出院了，\n我们都非常想念你，祝你身体健康，给你带了你最\n喜欢的水果期待你回到我们中间。\n爱你的\n2024.7.6\n你放下贺卡，耳边响起广播声：\n请全体病人前往（护士站）进行例检。",
+    "paraAudioClip": "拿起纸",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 8,
+    "paraContent": "一颗红透的苹果，似乎很美味",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 9,
+    "paraContent": "你来到了护士站，可是这里空无一  {人}\n护士台上有一个（血袋）\n护士站标语：\n…\n【出院人员注意，本院出于对病人安全负责的考虑，在出院前会例行体检，只有拿到合格的检测报告才能出院。】\n….\n【请带好血液样本前往（血液检验科）】",
+    "paraAudioClip": "open the door",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 10,
+    "paraContent": "一个大号的血袋，里边装满了温热的血液，标签上写着：{104572}202477",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 104,
+    "paraContent": "装满了血液，猩红的液体映出你的倒影",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 103,
+    "paraContent": "一个空的采血筒，似乎用来收集血液，底部残留暗红色血液",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 102,
+    "paraContent": "一个空的量杯，杯壁满是干涸血迹",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 101,
+    "paraContent": "血液染红了杯壁，最后一滴血液滴落在量杯中，溅起的血沫堪堪触及刻度的一半",
+    "paraAudioClip": "blood",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 11,
+    "paraContent": "房间中央有着一个（空量杯）和一个（空采血筒）以及一个（验血机），\n旁边有一头（猪），地板上和墙壁上血迹斑驳",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 113,
+    "paraContent": "一头趴在地上的猪，看起来非常虚弱",
+    "paraAudioClip": "pig sound 1",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 111,
+    "paraContent": "猪吃掉了你递给它的苹果，似乎恢复了点精神",
+    "paraAudioClip": "pig sound 1",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 112,
+    "paraContent": "猩红的血液沿着筒边流下，滴在了地上，凝成了褐色的的斑驳",
+    "paraAudioClip": "blood",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 12,
+    "paraContent": "针筒扎进猪的一瞬间，猪发出悲惨的号角，无力的倒在了地上，猩红的血液四处飞溅迅速充满了采血筒，你将（满采血筒）拔下",
+    "paraAudioClip": "pig sound 2",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 121,
+    "paraContent": "血液一滴不流地被吞了干净\n【血液已采集完成，请移步至隔壁（眼科室）进行视力测试】",
+    "paraAudioClip": "pig sound 3",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 122,
+    "paraContent": "一台大号验血机，同于检测血液健康程度",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 13,
+    "paraContent": "进入了眼科室，靠近墙壁的桌子上有一台老旧的（验光仪器），不知为何地上有点潮湿",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 14,
+    "paraContent": "仪器发出了声音...\n【请在验光仪前坐好，准备好后（开始验光）】",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 15,
+    "paraContent": "哔........\n你的眼前一片赤红\n随着机器的运行\n失焦感逐渐远去\n但方才的满眼赤红仍在眼前徘徊\n验血机和旁边倒在地上死物般静止不动的生物的模糊轮廓让你意识到这是检验科\n......\n焦距逐渐调整，最终定格在那倒在斑驳血迹中的生物上。\n......\n......\n......\n【你看到了（什么）？】\n",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 16,
+    "paraContent": "你的视力水平相当差...\n\n                                 \n                                   \n【下面是最后一项，请前往（耳科室）】",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 17,
+    "paraContent": "你的实力状态非常健康良好，奖励你一瓶（眼药水）给你缓解下视力疲劳",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 18,
+    "paraContent": "请将你的答案拖拽到“什么”字符上",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 20,
+    "paraContent": "你听到了几声叮？\n（三）   （四）",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 21,
+    "paraContent": "一瓶眼药水，上边落了一层灰，貌似放了很久了，\n你对准了你的眼睛滴入了眼药水，积累已久的眼部疲劳似乎缓解了些，\n但随后一阵难忍的刺痛在眼球炸开，你忍不住尖叫了出来\n【你成功通过了检测，恭喜你，你将回到我们中间】\n.......................................\n.......................................\n.......................................                                      \n有没有 人 可以救救我....",
+    "paraAudioClip": "man scream",
+    "paraBGMChange": "",
+    "gameState": "Restart"
+  },
+  {
+    "paraId": 22,
+    "paraContent": "【请进入隔音室】\n【请佩戴好耳机，将进行听力测试】\n【接下来会播放一段音频，音频将会以固定的频率播放，请注意音频中叮的次数】\n【点击（播放音频）】",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 23,
+    "paraContent": "音频播放...\n请等待音频播放完毕\n你是否听清？\n（听清）   （再来一次）",
+    "paraAudioClip": "sound text",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 24,
+    "paraContent": "你感到耳膜一阵剧痛，世界一片安静\n你失去了听力...\n...........................\n................\n........",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": "Finish"
+  },
+  {
+    "paraId": 25,
+    "paraContent": "你的听力也不怎么样\n大概是不合格的...\n                                       \n                                  \n【这是你的（体检报告）】",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 26,
+    "paraContent": "【编号：（104573）：不合格】\n【日期：2024.07.07】",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": ""
+  },
+  {
+    "paraId": 27,
+    "paraContent": "测试结束：目标对象丢失\n正在重新搜索....\n已重新连接档案......",
+    "paraAudioClip": "",
+    "paraBGMChange": "",
+    "gameState": "Restart"
+  }
+]
